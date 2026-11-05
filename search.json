@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "data/Readme.html",
+    "href": "data/Readme.html",
+    "title": "Data Folder",
+    "section": "",
+    "text": "Data Folder\nPlace any data needed by your analysis in this folder. Please do not store large files here. Then read in any data using the ‘data’ path. For example, read_csv(\"data/data.csv\")."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Final Project Template",
+    "section": "",
+    "text": "The Barbary Macaque (Macaca sylvanus)  is North Africa’s only primate and has been classified as endangered by the IUCN Red list as of 2008. The species occupies a small and heavily fragmented range within forested regions of Morocco and Algeria, along with a small introduced population on Rock of Gibraltar. It faces critical threats from deforestation, urbanization, agriculture, and human disturbances driven by tourism.\n\nAlgeria holds nearly 25% of the Barbary Macaque’s population, however there is a crucial need for new reviews of Algerian macaque populations as a recent comprehensive census of the existing populations within the country does not exist (Boumenir et. al , 2025). Even more pressing, recent dry seasons driven by climate change have worsened regional wild fires, which overlap with Algerian macaque habitat. Relevantly, in the summer of 2026 nearly 160 wildfires broke out along the northeastern coast of Algeria. This study aims to map the spatial intersection of 2026 wildfire damage with known macaque habitat to estimate recent habitat loss."
+  },
+  {
+    "objectID": "index.html#download-and-clean-all-required-data",
+    "href": "index.html#download-and-clean-all-required-data",
+    "title": "My Final Project Template",
+    "section": "Download and clean all required data",
+    "text": "Download and clean all required data\n\n#1. Define study area bounding box (Northeast Algeria)\n\n#2. Create an sf bounding box polygon \n\n#3. Set one coordinate refrence system for the entire project"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
